@@ -13,3 +13,6 @@ ublox:
 xsens:
   type: imu
   available_mode: all
+ur10:
+  type: arm
+  available_mode: simulation
