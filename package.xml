@@ -3,11 +3,11 @@
 <package format="3">
   <name>tirrex_campero</name>
   <version>0.0.0</version>
-  <description>Package with robufast launch files.</description>
+  <description>Package containing campero demo.</description>
 
   <maintainer email="jean.laneurit@inrae.fr">Jean Laneurit</maintainer>
 
-  <license>TODO</license>
+  <license>Apache License 2.0</license>
 
   <depend>launch</depend>
   <depend>ament_index_python</depend>
