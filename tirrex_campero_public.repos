@@ -23,7 +23,7 @@ repositories:
   romea_ros2/interfaces/manipulators/romea_arm:
     type: git
     url: https://github.com/Romea/romea-ros2-arm.git
-    version: devel
+    version: main
   romea_ros2/interfaces/sensors/romea_gps:
     type: git
     url: https://github.com/Romea/romea-ros2-gps.git
@@ -78,12 +78,14 @@ repositories:
 
   romea_ros2/demos/tirrex/tirrex_demo:
     type: git
-    url: git@gitlab-ssh.irstea.fr:tirrex/tirrex_demo.git
+    url: https://github.com/Tirrex-Roboterrium/tirrex_demo.git
     version: main
+
   romea_ros2/demos/tirrex/tirrex_campero:
     type: git
-    url: git@gitlab-ssh.irstea.fr:tirrex/campero.git
+    url: https://github.com/Tirrex-Roboterrium/tirrex_campero.git
     version: main
+
 
   third_party/serial:
     type: git
