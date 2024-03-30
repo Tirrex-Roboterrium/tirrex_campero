@@ -15,4 +15,4 @@ xsens:
   available_mode: all
 ur10:
   type: arm
-  available_mode: simulation
+  available_mode: none
